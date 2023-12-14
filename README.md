@@ -5,7 +5,7 @@
 
 - 👨‍💻 Check out my personal projects at [frkatona.github.io](frkatona.github.io)
 
-- 📫 How to reach me **anthony.katona@gmail.com**
+- 📫 Reach me at **anthony.katona@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
