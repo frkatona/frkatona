@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony Katona</h1>
-<h3 align="center">A chemist professional and coding hobbyist</h3>
+<h3 align="center">chemist professional, coding hobbyist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taekwon101&label=Profile%20views&color=0e75b6&style=flat" alt="taekwon101" /> </p>
 
