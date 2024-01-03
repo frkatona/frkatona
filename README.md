@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taekwon101&label=Profile%20views&color=0e75b6&style=flat" alt="taekwon101" /> </p>
 
-- 👨‍💻 Check out my personal projects at [frkatona.github.io](frkatona.github.io)
+- 👨‍💻 Check out my personal projects at frkatona.github.io
 
 - 📫 Reach me at **anthony.katona@gmail.com**
 
